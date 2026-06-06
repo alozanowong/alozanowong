@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Cloud environments
 - 🌱 I’m currently learning cloud containerization
 - 💞️ I’m looking to collaborate on AKS deployments
-- 📫 How to reach me mailto: alozano@kloudeck.com
+- 📫 How to reach me mailto: alejlw@gmail.com
 - 😄 Pronouns: He
 
 <!---
